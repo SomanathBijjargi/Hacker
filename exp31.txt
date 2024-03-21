@@ -1,0 +1,4 @@
+before stash {
+hi hello
+mt name is somanath
+{
